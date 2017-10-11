@@ -8,20 +8,20 @@
          <link href="css/materialize.min.css" rel="stylesheet" type="text/css"/>
          <link href="css/estilo.css" rel="stylesheet" type="text/css"/>
         
-           
-
+    
+    
     </head>
     <body  class="grey  grey darken-4" >
         
   <nav>
     <div class="nav-wrapper brown darken-3 ">
            
-      <a href="#" class="brand-logo right">Logo </a>
+      <a href="#" class="brand-logo right"> <img src="video/joystick-xxl.png"  width="65" height="60"/> </a>
    
       <ul id="nav-mobile" class="left hide-on-med-and-down"> 
          
         <li><a href="index.php">Home</a></li>
-        <li><a href="componentes.html">Componentes   </a></li>
+        <li><a href="componentes.html">Lojas  </a></li>
         <li><a href="faleconosco.html">fale conosco</a></li>
       </ul>
     </div>
